@@ -9,19 +9,15 @@ This is a messaging website built for **ETHOS** , incorporating several AI featu
 - *Description:* Predicts the next word as the user types, offering suggestions to improve typing speed and efficiency.
 - *Status:* Implemented and tested.
 
-### 2. *Spelling Correction and Suggestion (In Progress)*
-- *Description:* Detects spelling errors and provides suggestions for correction in real-time.
-- *Status:* Currently being developed. Expected to be integrated soon.
-
-### 3. *Emoji Prediction (Planned)*
+### 2 . *Emoji Prediction (Planned)*
 - *Description:* Suggests relevant emojis based on the emotion of the message being typed.
 - *Status:* Planned for future release.
 
-### 4. *Content Sensitivity Detection (Planned)*
+### 3. *Content Sensitivity Detection (Planned)*
 - *Description:* Automatically detects and flags sensitive content such as violence or nudity in images and videos shared in the chat.
 - *Status:* Planned for future release.
 
-### 5. *Translation Feature (Planned)*
+### 4. *Translation Feature (Planned)*
 - *Description:* Allows users to translate messages between Hindi and English.
 - *Status:* Planned for future release.
 
