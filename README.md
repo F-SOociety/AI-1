@@ -1,7 +1,7 @@
 # Messaging Website for Hackathon
 
-This is a messaging website built for **ETHOS** , incorporating several AI features to enhance the user experience. This document outlines the implemented features, upcoming features, and references the detailed documentation for each component.
-**For more detailed information on each feature, including implementation details and future plans follow [my Document](https://github.com/F-SOociety/AI-1/blob/main/Final_doc.pdf) .**
+This is a messaging website built for **ETHOS** , incorporating several AI features to enhance the user experience. This document outlines the implemented features, upcoming features, and references the detailed documentation for each component.<br>
+**For more detailed information on each feature, including implementation details and future plans follow [My Document](https://github.com/F-SOociety/AI-1/blob/main/Final_doc.pdf) .**
 
 ## Features
 
