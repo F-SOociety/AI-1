@@ -13,12 +13,13 @@ This is a messaging website built for **ETHOS** , incorporating several AI featu
 - *Description:* Suggests relevant emojis based on the emotion of the message being typed.
 - *Status:* Planned for future release.
 
-### 3. *Content Sensitivity Detection (Planned)*
-- *Description:* Automatically detects and flags sensitive content such as violence or nudity in images and videos shared in the chat.
+
+### 3. *Translation Feature (Planned)*
+- *Description:* Allows users to translate messages between Hindi and English.
 - *Status:* Planned for future release.
 
-### 4. *Translation Feature (Planned)*
-- *Description:* Allows users to translate messages between Hindi and English.
+### 4. *Content Sensitivity Detection (Planned)*
+- *Description:* Automatically detects and flags sensitive content such as violence or nudity in images and videos shared in the chat.
 - *Status:* Planned for future release.
 
 
