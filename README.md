@@ -47,7 +47,7 @@ This is a messaging website built for **ETHOS** , incorporating several AI featu
 4. Run the application:
     bash
    ```
-    streamlit run app.py
+    streamlit run main.py
    ```
     
 
