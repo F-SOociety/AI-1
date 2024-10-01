@@ -57,4 +57,5 @@ This is a messaging website built for **ETHOS** , incorporating several AI featu
 ## Contributing
 
 We welcome contributions to improve the website and the AI features. Please feel free to submit a pull request or open an issue.
+# By F-Society
 
